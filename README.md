@@ -34,6 +34,15 @@ All rights reserved.
 - You may read and share the paper freely.  
 - Any reproduction, reuse, or citation **must credit the author**.  
 - Redistribution or modification without explicit permission is prohibited.  
+**BibTeX**
+```bibtex
+@misc{bahbouhi2025goldbach,
+  author       = {Bahbouhi, Bouchaib},
+  title        = {The End of the Beginning and the Beginning of the End of Goldbach’s Conjecture},
+  year         = {2025},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/b43797/goldbach-review-paper-bahbouhi-bouchaib}},
+}
 
 ---
 
@@ -44,3 +53,10 @@ Independent Scientist, Nantes, France
 Email: **bahbouhibouchaib524@gmail.com**
 
 ---
+
+## 📚 How to Cite
+
+If you reference this work in an article, please cite it as follows:
+
+**APA Style**
+Bahbouhi, B. (2025). The End of the Beginning and the Beginning of the End of Goldbach’s Conjecture. GitHub repository. https://github.com/b43797/goldbach-review-paper-bahbouhi-bouchaib
